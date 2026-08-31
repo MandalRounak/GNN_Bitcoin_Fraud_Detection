@@ -1,6 +1,6 @@
 # Leveraging Graph Neural Networks to Uncover Illicit Financial Networks
 
-**Group 6** — Rounak Mandal (240855) · Poonam Gupta (240751) · Sahaj Bindal (240900)
+**Group 6** — Rounak Mandal (240855) · Poonam Gupta (240751) · Sahaj Bindal (240900) · Pallav Pratibh (240723)
 
 ---
 
